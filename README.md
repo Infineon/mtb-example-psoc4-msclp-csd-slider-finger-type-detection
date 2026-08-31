@@ -4,7 +4,7 @@ This code example demonstrates the use of CAPSENSE&trade; middleware to detect b
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-psoc4-msclp-csd-slider-finger-type-detection)
 
-[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDI4NjMiLCJTcGVjIE51bWJlciI6IjAwMi00Mjg2MyIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IDQ6IE1TQ0xQIENTRCBzbGlkZXIgd2l0aCBmaW5nZXItdHlwZSBkZXRlY3Rpb24iLCJyaWQiOiJsb2hpdGFrc2gucmF3YXRAaW5maW5lb24uY29tIiwiRG9jIHZlcnNpb24iOiIxLjAuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiUFNPQyJ9)
+[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDI4NjMiLCJTcGVjIE51bWJlciI6IjAwMi00Mjg2MyIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IDQ6IE1TQ0xQIENTRCBzbGlkZXIgd2l0aCBmaW5nZXItdHlwZSBkZXRlY3Rpb24iLCJyaWQiOiJsb2hpdGFrc2gucmF3YXRAaW5maW5lb24uY29tIiwiRG9jIHZlcnNpb24iOiIxLjEuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiUFNPQyJ9)
 
 
 ## Requirements
@@ -689,6 +689,7 @@ Document title: *CE242863* - *PSOC&trade; 4: MSCLP CSD slider with finger-type d
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New code example
+ 1.1.0   | Updated to CAPSENSE&trade; Middleware v11.0 and CAPSENSE&trade; Configurator V12.0
   
  <br>
 
